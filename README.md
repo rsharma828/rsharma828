@@ -1,4 +1,3 @@
-## Hi there 👋
 
 
 
@@ -17,7 +16,7 @@
 💡 &nbsp;I am Rupesh Sharma, a passionate web developer currently pursuing my Bachelor of Technology at the National Institute of Technology Agartala with a CGPA of 8.61.  
 💻 &nbsp;I am skilled in **C++**, **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **React.js**,**Next.js**,**AWS**, **Tailwind CSS**, and **PostgreSQL**.  
 🎓 &nbsp;I am actively learning about **AI/ML technologies**, **web development**, and **software engineering** to build innovative solutions for real-world challenges.  
-🌱 &nbsp;I am working on various projects like **DocQuify** (a platform for context-aware querying from PDFs) and **PayUp** (a digital wallet for secure transactions).  
+🌱 &nbsp;I have worked on various projects like **DocQuify** (a platform for context-aware querying from PDFs) and **PayUp** (a digital wallet for secure transactions).  
 ✍️ &nbsp;In my free time, I enjoy solving coding challenges, working on tech projects, and engaging with the developer community.  
 💬 &nbsp;Feel free to reach out to me for collaboration, advice, or general discussions on tech!  
 ✉️ &nbsp;You can email me at **rksharmagmo@gmail.com**. I'll try to respond as soon as possible!  
