@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am Rupesh Sharma, a passionate web developer currently pursuing my Bachelor of Technology at the National Institute of Technology Agartala with a CGPA of 8.61.  
+💡 &nbsp;I am Rupesh Sharma, a passionate Software developer currently pursuing my Bachelor of Technology at the National Institute of Technology Agartala with a CGPA of 8.61.  
 💻 &nbsp;I am skilled in **C++**, **JavaScript**, **TypeScript**, **Node.js**, **Express.js**, **React.js**,**Next.js**,**AWS**, **Tailwind CSS**, and **PostgreSQL**.  
 🎓 &nbsp;I am actively learning about **AI/ML technologies**, **web development**, and **software engineering** to build innovative solutions for real-world challenges.  
 🌱 &nbsp;I have worked on various projects like **DocQuify** (a platform for context-aware querying from PDFs) and **PayUp** (a digital wallet for secure transactions).  
